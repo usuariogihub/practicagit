@@ -1,0 +1,9 @@
+.\obj\rtx_ex1.o: src\RTX_ex1.c
+.\obj\rtx_ex1.o: src\cmsis_os.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\rtx_ex1.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
